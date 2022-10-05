@@ -72,7 +72,7 @@ function App() {
                 heading="Enter the text for Analyze below"
                 mode={mode}
               />
-            
+            git 
 
            
             
