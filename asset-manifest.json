@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SKyText/static/css/main.2543b9d3.css",
+    "main.js": "/SKyText/static/js/main.511f0b21.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SKyText/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/SKyText/index.html",
+    "main.2543b9d3.css.map": "/SKyText/static/css/main.2543b9d3.css.map",
+    "main.511f0b21.js.map": "/SKyText/static/js/main.511f0b21.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SKyText/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2543b9d3.css",
+    "static/js/main.511f0b21.js"
+  ]
+}
